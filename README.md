@@ -1,1 +1,3 @@
 # ws_test
+
+This will contain files to reporduce websocket test setup - Golang, Java, PHP, Erlang, ....
